@@ -1,0 +1,7 @@
+# Heading 1
+
+## Heading 2
+
+-----
+
+This is some plain text, I can also use *bold*, _italics_ and ``` code ```
